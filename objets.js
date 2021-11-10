@@ -52,7 +52,7 @@ function pokedex(pokemons) {
     newh3.innerText = "Mooves :";
     const ul = document.createElement("ul");
     const hr = document.createElement("hr");
-    
+
     
 
     console.log(pokemonGen1);
@@ -103,9 +103,8 @@ function pokedex(pokemons) {
                 let newP = document.createElement('p');
                 newP.textContent = bEvolution;
 
-                let newImg1 = document.createElement('img');
-
-                let new
+                /*let newImg1 = document.createElement('img');
+                let new*/
 
                 newDiv3.appendChild(newh4);
                 newDiv3.appendChild(newP);
