@@ -1,0 +1,96 @@
+body{
+
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/576/831/759/firewatch-video-game-art-minimalism-simple-hd-wallpaper-preview.jpg");
+    background-size: cover;
+    
+
+}
+
+header{
+
+    width: 100%;
+    height: 10%;
+
+}
+
+h1{
+
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+    color: lightyellow;
+
+}
+
+main{
+
+    width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.generation1{
+
+    width: 70%;
+    height: 80%;
+    border: solid red 10px;
+    overflow: scroll;
+    margin-left: 200px;
+    background-color: white;
+    margin-top: 30px;
+
+}
+
+.zonePokemon{
+
+    margin-left: 50px;
+    margin-right: 10px;
+
+}
+
+.elements{
+
+    display: flex;
+
+
+}
+
+.imagePokemon{
+
+    width: 140px;
+    height: 140px;
+
+}
+
+.mooves{
+
+    margin-left: 30px;
+    height: 140px;
+    overflow: scroll;
+
+}
+
+h3, h4{
+
+    font-family: 'Lobster', cursive;
+
+}
+
+.evolution{
+
+    margin-left: 30px;
+
+}
+
+p{
+
+    margin-left: 20px;
+
+}
+
